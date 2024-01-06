@@ -1,7 +1,7 @@
 {
-  "name": "tricolors",
+  "name": "tricolors Holis",
   "version": "0.1.0",
-  "description": "TRICOLORS: a puzzle game",
+  "description": "TRICOLORS: a puzzle game for oyis",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
